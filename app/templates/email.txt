@@ -1,0 +1,3 @@
+Dear {{ firstname }},
+
+Thank you for your interest in the CyberSecurity Awareness Seminar organised by ShieldedBit.
